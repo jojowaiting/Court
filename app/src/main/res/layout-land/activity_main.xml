@@ -43,7 +43,7 @@
 
             <Button
                 android:id="@+id/_3_point_a"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
 
@@ -52,7 +52,7 @@
 
             <Button
                 android:id="@+id/_2_point_a"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="onClick_2_point_a"
@@ -109,7 +109,7 @@
 
             <Button
                 android:id="@+id/_3_point_b"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="onClick_3_point_b"
@@ -117,7 +117,7 @@
 
             <Button
                 android:id="@+id/_2_point_b"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="onClick_2_point_b"
